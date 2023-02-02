@@ -14,3 +14,11 @@ I am very excited to roam the country
 |  Newzeland    |  To see buildings     |  6                   |
 |  Paris        |  To Visit Tower       |  10                  |
 |  Uk           |  To Study             |  7                   |
+
+---
+
+# Pithy Quotes
+
+>Never go to bed mad. Stay up and fight. _Rahul_
+>
+>Accept who you are. Unless you're a serial killer. _Neelima_
