@@ -22,3 +22,20 @@ I am very excited to roam the country
 >Never go to bed mad. Stay up and fight. _Rahul_
 >
 >Accept who you are. Unless you're a serial killer. _Neelima_
+
+---
+
+# Code Fencing
+
+> How to do KeyboardEvent Value?
+
+[Link](https://stackoverflow.com/questions/35394937/keyboardevent-keycode-deprecated-what-does-this-mean-in-practice)
+
+JavaScript
+```
+document.addEventListener("keydown", function(event) {
+  console.log(event.which);
+})
+
+```
+[Link](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
